@@ -129,34 +129,62 @@ Se solicita resolver los siguientes puntos:
 <br>
 
 1. Cantidad de obras en etapa de **Ejecución**.  
+
 <br>
+
 2. Porcentaje (%) de obras en etapa **Finalizada**.  
+
 <br>
+
 3. Total de **Monto Contratado** para el año **2011**.   
+
 <br>
+
 4. Total de **Monto Contratado** para el período **2018–2022**.   
-<br>  
+<br>
+  
 5. Cantidad de **licitaciones por año**.  
+
 <br>
+
 6. Cantidad de obras para el **Barrio Liniers**.   
+
 <br>  
+
 7. Total de **Monto Contratado** para el **Barrio Boedo**.   
+
 <br>
+
 8. Importe total para obras con **plazo de hasta 8 meses**.   
+
 <br>
+
 9. **Inversión planificada** en el área de **Salud**.  
+
 <br>
+
 10. **Inversión total en Salud** (realizada + planificada).  
+
 <br>  
+
 11. **Inversión total en Educación** (realizada + planificada).  
+
 <br> 
+
 12. Importe de la **obra más costosa**.   
+
 <br>
+
 13. Importe de la obra más costosa en el área de **Transporte**.  
+
 <br>
+
 14. Importe de la obra más costosa en **Obra Hidráulica e Infraestructura**.  
+
 <br>
+
 15. Cantidad de obras para el área responsable **“Ministerio de Salud”**.
+
 <br>
 
 ---
